@@ -48,3 +48,6 @@ A autenticação é feita via formulário HTML (login tradicional), com backend 
 - localhost:8080/dashboard para ser redirecionado para localhost:8080/login
 - Faça a autenticação com o usuário: testuser e a senha: 12345
 - Depois, faça logout e pronto. Já aplicou todos os conceitos abordados na aula.
+
+## Observação:
+A documentação completa do projeto está dentro do curso Spring Boot na Prática, que pode ser adquirido aqui: [https://pay.kiwify.com.br/XVcZbZy](https://pay.kiwify.com.br/XVcZbZy) Dentro deste link, você pode adquirir em conjunto o curso de Thymeleaf, para aprender a criar os templates, formulários web, que podem te fazer aprender ainda mais sobre o curso. Bons estudos.
